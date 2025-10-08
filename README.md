@@ -1,1 +1,1 @@
-"# Proyeto de pr†ctica con Git" 
+"# Proyeto de pr√°ctica con Git" 
